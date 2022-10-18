@@ -35,7 +35,7 @@ const torusKnotMatcap = textureLoader.load("/textures/matcaps/10.png");
 const fontLoader = new FontLoader();
 
 fontLoader.load("/fonts/helvetiker_regular.typeface.json", (font) => {
-  const textGeometry = new TextGeometry("B Wizard", {
+  const textGeometry = new TextGeometry("Sami", {
     font: font,
     size: 1.7,
     height: 0.7,

@@ -27,7 +27,7 @@ const scene = new THREE.Scene();
 const textureLoader = new THREE.TextureLoader();
 const textMatcap = textureLoader.load("/textures/matcaps/12.png");
 const donutMatcap = textureLoader.load("/textures/matcaps/10.png");
-const torusKnotMatcap = textureLoader.load("/textures/matcaps/10.png");
+const torusKnotMatcap = textureLoader.load("/textures/matcaps/11.png");
 
 /**
  * Fonts
